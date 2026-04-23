@@ -22,7 +22,7 @@ To replicate this build, the following electro-mechanical components are require
 * **Wiring:** Standard solid-core jumper wires
 
 ## Circuit Schematic
-![Circuit Schematic](./docs/car_schematic.png)
+![Circuit Schematic](car_schematic.png)
 
 ## Power Analysis & Physical Dynamics
 The 3V DC source provides sufficient torque for the motor to generate aerodynamic thrust. The inclusion of resistors on the LED branches prevents thermal runaway and diode burnout, showcasing fundamental load-balancing in a mixed-component circuit. The breadboard provides a rigid yet modular foundation, allowing for rapid iteration of the center of gravity and weight distribution.
