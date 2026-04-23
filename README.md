@@ -10,6 +10,8 @@ The vehicle operates on a purely analog, parallel DC circuit. The power delivery
 
 By utilizing a parallel configuration, the system ensures that the voltage drop across the motor does not dim the LEDs (which operate independently on their own branches with series resistors).
 
+![Electro-mechanical Car](electromechanic_car.jpg)
+
 ## BOM (Bill of Materials)
 To replicate this build, the following electro-mechanical components are required:
 * **Chassis:** 1x Half-size Breadboard (400 tie-points)
